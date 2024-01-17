@@ -1,0 +1,7 @@
+C:\Users\edwar\source\repos\Lagerbestand\Lagerbestand\bin\Debug\Lagerbestand.exe.config
+C:\Users\edwar\source\repos\Lagerbestand\Lagerbestand\bin\Debug\Lagerbestand.exe
+C:\Users\edwar\source\repos\Lagerbestand\Lagerbestand\bin\Debug\Lagerbestand.pdb
+C:\Users\edwar\source\repos\Lagerbestand\Lagerbestand\obj\Debug\Lagerbestand.csproj.AssemblyReference.cache
+C:\Users\edwar\source\repos\Lagerbestand\Lagerbestand\obj\Debug\Lagerbestand.csproj.CoreCompileInputs.cache
+C:\Users\edwar\source\repos\Lagerbestand\Lagerbestand\obj\Debug\Lagerbestand.exe
+C:\Users\edwar\source\repos\Lagerbestand\Lagerbestand\obj\Debug\Lagerbestand.pdb
